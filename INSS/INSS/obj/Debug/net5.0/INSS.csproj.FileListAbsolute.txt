@@ -1,0 +1,16 @@
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\INSS\INSS\bin\Debug\net5.0\INSS.exe
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\INSS\INSS\bin\Debug\net5.0\INSS.deps.json
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\INSS\INSS\bin\Debug\net5.0\INSS.runtimeconfig.json
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\INSS\INSS\bin\Debug\net5.0\INSS.runtimeconfig.dev.json
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\INSS\INSS\bin\Debug\net5.0\INSS.dll
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\INSS\INSS\bin\Debug\net5.0\ref\INSS.dll
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\INSS\INSS\bin\Debug\net5.0\INSS.pdb
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\INSS\INSS\obj\Debug\net5.0\INSS.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\INSS\INSS\obj\Debug\net5.0\INSS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\INSS\INSS\obj\Debug\net5.0\INSS.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\INSS\INSS\obj\Debug\net5.0\INSS.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\INSS\INSS\obj\Debug\net5.0\INSS.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\INSS\INSS\obj\Debug\net5.0\INSS.dll
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\INSS\INSS\obj\Debug\net5.0\ref\INSS.dll
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\INSS\INSS\obj\Debug\net5.0\INSS.pdb
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\INSS\INSS\obj\Debug\net5.0\INSS.genruntimeconfig.cache

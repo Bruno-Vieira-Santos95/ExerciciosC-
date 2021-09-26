@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Reajuste10porcento/1.0.0": {
+        "runtime": {
+          "Reajuste10porcento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Reajuste10porcento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

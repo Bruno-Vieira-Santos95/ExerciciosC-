@@ -1,0 +1,16 @@
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\reajustesalario\reajustesalario\bin\Debug\net5.0\reajustesalario.exe
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\reajustesalario\reajustesalario\bin\Debug\net5.0\reajustesalario.deps.json
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\reajustesalario\reajustesalario\bin\Debug\net5.0\reajustesalario.runtimeconfig.json
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\reajustesalario\reajustesalario\bin\Debug\net5.0\reajustesalario.runtimeconfig.dev.json
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\reajustesalario\reajustesalario\bin\Debug\net5.0\reajustesalario.dll
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\reajustesalario\reajustesalario\bin\Debug\net5.0\ref\reajustesalario.dll
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\reajustesalario\reajustesalario\bin\Debug\net5.0\reajustesalario.pdb
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\reajustesalario\reajustesalario\obj\Debug\net5.0\reajustesalario.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\reajustesalario\reajustesalario\obj\Debug\net5.0\reajustesalario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\reajustesalario\reajustesalario\obj\Debug\net5.0\reajustesalario.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\reajustesalario\reajustesalario\obj\Debug\net5.0\reajustesalario.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\reajustesalario\reajustesalario\obj\Debug\net5.0\reajustesalario.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\reajustesalario\reajustesalario\obj\Debug\net5.0\reajustesalario.dll
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\reajustesalario\reajustesalario\obj\Debug\net5.0\ref\reajustesalario.dll
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\reajustesalario\reajustesalario\obj\Debug\net5.0\reajustesalario.pdb
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\reajustesalario\reajustesalario\obj\Debug\net5.0\reajustesalario.genruntimeconfig.cache

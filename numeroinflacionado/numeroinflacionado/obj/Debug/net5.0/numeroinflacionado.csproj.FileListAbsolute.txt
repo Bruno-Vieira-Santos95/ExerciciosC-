@@ -1,0 +1,16 @@
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numeroinflacionado\numeroinflacionado\bin\Debug\net5.0\numeroinflacionado.exe
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numeroinflacionado\numeroinflacionado\bin\Debug\net5.0\numeroinflacionado.deps.json
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numeroinflacionado\numeroinflacionado\bin\Debug\net5.0\numeroinflacionado.runtimeconfig.json
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numeroinflacionado\numeroinflacionado\bin\Debug\net5.0\numeroinflacionado.runtimeconfig.dev.json
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numeroinflacionado\numeroinflacionado\bin\Debug\net5.0\numeroinflacionado.dll
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numeroinflacionado\numeroinflacionado\bin\Debug\net5.0\ref\numeroinflacionado.dll
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numeroinflacionado\numeroinflacionado\bin\Debug\net5.0\numeroinflacionado.pdb
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numeroinflacionado\numeroinflacionado\obj\Debug\net5.0\numeroinflacionado.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numeroinflacionado\numeroinflacionado\obj\Debug\net5.0\numeroinflacionado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numeroinflacionado\numeroinflacionado\obj\Debug\net5.0\numeroinflacionado.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numeroinflacionado\numeroinflacionado\obj\Debug\net5.0\numeroinflacionado.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numeroinflacionado\numeroinflacionado\obj\Debug\net5.0\numeroinflacionado.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numeroinflacionado\numeroinflacionado\obj\Debug\net5.0\numeroinflacionado.dll
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numeroinflacionado\numeroinflacionado\obj\Debug\net5.0\ref\numeroinflacionado.dll
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numeroinflacionado\numeroinflacionado\obj\Debug\net5.0\numeroinflacionado.pdb
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numeroinflacionado\numeroinflacionado\obj\Debug\net5.0\numeroinflacionado.genruntimeconfig.cache

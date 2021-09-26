@@ -1,0 +1,16 @@
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numerosiguais\numerosiguais\bin\Debug\net5.0\numerosiguais.exe
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numerosiguais\numerosiguais\bin\Debug\net5.0\numerosiguais.deps.json
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numerosiguais\numerosiguais\bin\Debug\net5.0\numerosiguais.runtimeconfig.json
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numerosiguais\numerosiguais\bin\Debug\net5.0\numerosiguais.runtimeconfig.dev.json
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numerosiguais\numerosiguais\bin\Debug\net5.0\numerosiguais.dll
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numerosiguais\numerosiguais\bin\Debug\net5.0\ref\numerosiguais.dll
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numerosiguais\numerosiguais\bin\Debug\net5.0\numerosiguais.pdb
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numerosiguais\numerosiguais\obj\Debug\net5.0\numerosiguais.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numerosiguais\numerosiguais\obj\Debug\net5.0\numerosiguais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numerosiguais\numerosiguais\obj\Debug\net5.0\numerosiguais.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numerosiguais\numerosiguais\obj\Debug\net5.0\numerosiguais.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numerosiguais\numerosiguais\obj\Debug\net5.0\numerosiguais.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numerosiguais\numerosiguais\obj\Debug\net5.0\numerosiguais.dll
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numerosiguais\numerosiguais\obj\Debug\net5.0\ref\numerosiguais.dll
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numerosiguais\numerosiguais\obj\Debug\net5.0\numerosiguais.pdb
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numerosiguais\numerosiguais\obj\Debug\net5.0\numerosiguais.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\mediaalunonota\mediaalunonota\bin\Debug\net5.0\mediaalunonota.exe
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\mediaalunonota\mediaalunonota\bin\Debug\net5.0\mediaalunonota.deps.json
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\mediaalunonota\mediaalunonota\bin\Debug\net5.0\mediaalunonota.runtimeconfig.json
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\mediaalunonota\mediaalunonota\bin\Debug\net5.0\mediaalunonota.runtimeconfig.dev.json
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\mediaalunonota\mediaalunonota\bin\Debug\net5.0\mediaalunonota.dll
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\mediaalunonota\mediaalunonota\bin\Debug\net5.0\ref\mediaalunonota.dll
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\mediaalunonota\mediaalunonota\bin\Debug\net5.0\mediaalunonota.pdb
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\mediaalunonota\mediaalunonota\obj\Debug\net5.0\mediaalunonota.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\mediaalunonota\mediaalunonota\obj\Debug\net5.0\mediaalunonota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\mediaalunonota\mediaalunonota\obj\Debug\net5.0\mediaalunonota.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\mediaalunonota\mediaalunonota\obj\Debug\net5.0\mediaalunonota.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\mediaalunonota\mediaalunonota\obj\Debug\net5.0\mediaalunonota.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\mediaalunonota\mediaalunonota\obj\Debug\net5.0\mediaalunonota.dll
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\mediaalunonota\mediaalunonota\obj\Debug\net5.0\ref\mediaalunonota.dll
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\mediaalunonota\mediaalunonota\obj\Debug\net5.0\mediaalunonota.pdb
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\mediaalunonota\mediaalunonota\obj\Debug\net5.0\mediaalunonota.genruntimeconfig.cache

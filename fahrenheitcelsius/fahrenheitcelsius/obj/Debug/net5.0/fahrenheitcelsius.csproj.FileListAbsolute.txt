@@ -1,0 +1,16 @@
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\fahrenheitcelsius\fahrenheitcelsius\bin\Debug\net5.0\fahrenheitcelsius.exe
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\fahrenheitcelsius\fahrenheitcelsius\bin\Debug\net5.0\fahrenheitcelsius.deps.json
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\fahrenheitcelsius\fahrenheitcelsius\bin\Debug\net5.0\fahrenheitcelsius.runtimeconfig.json
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\fahrenheitcelsius\fahrenheitcelsius\bin\Debug\net5.0\fahrenheitcelsius.runtimeconfig.dev.json
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\fahrenheitcelsius\fahrenheitcelsius\bin\Debug\net5.0\fahrenheitcelsius.dll
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\fahrenheitcelsius\fahrenheitcelsius\bin\Debug\net5.0\ref\fahrenheitcelsius.dll
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\fahrenheitcelsius\fahrenheitcelsius\bin\Debug\net5.0\fahrenheitcelsius.pdb
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\fahrenheitcelsius\fahrenheitcelsius\obj\Debug\net5.0\fahrenheitcelsius.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\fahrenheitcelsius\fahrenheitcelsius\obj\Debug\net5.0\fahrenheitcelsius.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\fahrenheitcelsius\fahrenheitcelsius\obj\Debug\net5.0\fahrenheitcelsius.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\fahrenheitcelsius\fahrenheitcelsius\obj\Debug\net5.0\fahrenheitcelsius.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\fahrenheitcelsius\fahrenheitcelsius\obj\Debug\net5.0\fahrenheitcelsius.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\fahrenheitcelsius\fahrenheitcelsius\obj\Debug\net5.0\fahrenheitcelsius.dll
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\fahrenheitcelsius\fahrenheitcelsius\obj\Debug\net5.0\ref\fahrenheitcelsius.dll
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\fahrenheitcelsius\fahrenheitcelsius\obj\Debug\net5.0\fahrenheitcelsius.pdb
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\fahrenheitcelsius\fahrenheitcelsius\obj\Debug\net5.0\fahrenheitcelsius.genruntimeconfig.cache

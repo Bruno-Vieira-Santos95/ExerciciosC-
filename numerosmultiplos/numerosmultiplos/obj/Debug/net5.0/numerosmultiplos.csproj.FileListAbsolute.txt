@@ -1,0 +1,16 @@
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numerosmultiplos\numerosmultiplos\obj\Debug\net5.0\numerosmultiplos.csproj.AssemblyReference.cache
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numerosmultiplos\numerosmultiplos\obj\Debug\net5.0\numerosmultiplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numerosmultiplos\numerosmultiplos\obj\Debug\net5.0\numerosmultiplos.AssemblyInfoInputs.cache
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numerosmultiplos\numerosmultiplos\obj\Debug\net5.0\numerosmultiplos.AssemblyInfo.cs
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numerosmultiplos\numerosmultiplos\obj\Debug\net5.0\numerosmultiplos.csproj.CoreCompileInputs.cache
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numerosmultiplos\numerosmultiplos\bin\Debug\net5.0\numerosmultiplos.exe
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numerosmultiplos\numerosmultiplos\bin\Debug\net5.0\numerosmultiplos.deps.json
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numerosmultiplos\numerosmultiplos\bin\Debug\net5.0\numerosmultiplos.runtimeconfig.json
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numerosmultiplos\numerosmultiplos\bin\Debug\net5.0\numerosmultiplos.runtimeconfig.dev.json
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numerosmultiplos\numerosmultiplos\bin\Debug\net5.0\numerosmultiplos.dll
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numerosmultiplos\numerosmultiplos\bin\Debug\net5.0\ref\numerosmultiplos.dll
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numerosmultiplos\numerosmultiplos\bin\Debug\net5.0\numerosmultiplos.pdb
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numerosmultiplos\numerosmultiplos\obj\Debug\net5.0\numerosmultiplos.dll
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numerosmultiplos\numerosmultiplos\obj\Debug\net5.0\ref\numerosmultiplos.dll
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numerosmultiplos\numerosmultiplos\obj\Debug\net5.0\numerosmultiplos.pdb
+C:\Users\bruno\OneDrive\Documentos\Exercícios C#\numerosmultiplos\numerosmultiplos\obj\Debug\net5.0\numerosmultiplos.genruntimeconfig.cache

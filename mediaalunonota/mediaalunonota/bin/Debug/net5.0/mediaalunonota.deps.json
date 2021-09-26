@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "mediaalunonota/1.0.0": {
+        "runtime": {
+          "mediaalunonota.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mediaalunonota/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
